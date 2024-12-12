@@ -1,8 +1,6 @@
 import tkinter as tk
-
 import frames as fr
 import configuration as co
-
 
 class MainWindow(tk.Tk):  # Main Window that frames will be attached to from widgets.py
     def __init__(self):
